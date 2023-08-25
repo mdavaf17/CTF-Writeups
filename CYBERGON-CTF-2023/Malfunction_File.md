@@ -3,7 +3,7 @@
 
 ## Malfunction File
 
-Extract the data and repair it!
+Can you fix the file and extract the secret data?
 
 https://media.discordapp.net/attachments/758115188796162088/1142977520078168156/Cybergon.jpg?width=634&height=628
 

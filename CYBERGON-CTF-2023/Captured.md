@@ -2,7 +2,9 @@
 
 ## Captured
 
-Listen it deeply!
+Our intels captured some conversation between Mr.Yit and his friend. Do you find some useful information ?
+
+Flag Format : CybergonCTF{XXXXXXXXX}
 
 Attachment: https://cdn.discordapp.com/attachments/758115188796162088/1142974562515046401/Captured.m4a
 

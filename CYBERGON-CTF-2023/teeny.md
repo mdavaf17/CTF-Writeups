@@ -3,6 +3,10 @@
 
 ## Teeny
 
+Small enough to be powerfull.
+
+Flag Format : CybergonCTF{.+}
+
 https://cdn.discordapp.com/attachments/758115188796162088/1142987852574117978/teeny
 
 ---
