@@ -22,4 +22,4 @@ $ stegseek cyberdog.jpg -wl rockyou.txt
 ![](https://media.discordapp.net/attachments/758115188796162088/1165913579162185738/image.png?ex=654894a2&is=65361fa2&hm=44aa01a51df0fc126932ef0578e887e3cee068fd8f1b0cc41268bb0bf86d476b&=&width=2160&height=414)
 
 
->flag{g00d_dawg_woofw00f}
+### flag{g00d_dawg_woofw00f}

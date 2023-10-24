@@ -28,4 +28,4 @@ Extract .docx file with binwalk
 
 Look at /word/document.xml, we got "but we are going to use **Wh1t3_N01Z3.exe** to sent out a reverse shell. Be prepared to listen for the signal. "
 
->flag{Wh1t3_N01Z3.exe}
+### flag{Wh1t3_N01Z3.exe}
