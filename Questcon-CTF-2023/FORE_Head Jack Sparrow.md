@@ -12,7 +12,7 @@ File: https://cdn.discordapp.com/attachments/758115188796162088/1168837463712727
 
 Its corrupted png header, `26 ED AF 21 0D 0A 1A 0A 00 00 00 0D 76 22 E2 52` change to `89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52`
 
-Look at the right bottom!
+Look at the right bottom image!
 
 ![](https://media.discordapp.net/attachments/758115188796162088/1168839167434838076/flag.png?ex=6553394d&is=6540c44d&hm=6eb02252e432dbd2349a8c90029886c1580f182ac4594e9bca6cdf3f1a022a11&=&width=1068&height=1068)
 
