@@ -2,6 +2,7 @@
 
 | Event Name                | Ranking  | Team Name    | Scope   | Writeup |
 |--------------------       | -------- |--------------| ------- |-------- |
+| Protergo CTF 2024         | 3/105     | -           | Local  | [🚩](PROTERGO-CTF-2024) |
 | UofTCTF 2024              | 189/1225 | Riemann Func | Global  | [🚩](University-of-Toronto-UofTCTF-2024) |
 | CYBERGON CTF 2023         | 29/517   | Riemann Func | Global  | [🚩](CYBERGON-CTF-2023) |
 | Netcomp 2.0 2024          |          | Selepetnomics Function | Local  | ❌ |
